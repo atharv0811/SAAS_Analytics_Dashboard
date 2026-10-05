@@ -94,7 +94,7 @@ src/
 └── types/                    # Domain types
 ```
 
-## Screenshots
+<!-- ## Screenshots
 
 _Add screenshots here:_
 
@@ -113,4 +113,4 @@ _Add screenshots here:_
 - Move list filtering, sorting and pagination server-side and mirror table state in URL search params.
 - Add a custom date-range calendar alongside the presets.
 - Add unit tests for `lib/metrics` and Playwright end-to-end and visual regression tests.
-- Add real-time updates for new transactions (Server-Sent Events or WebSockets).
+- Add real-time updates for new transactions (Server-Sent Events or WebSockets). -->
